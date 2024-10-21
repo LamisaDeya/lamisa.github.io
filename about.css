@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    color: #333;
+}
+p {
+    line-height: 1.6;
+}
+.section {
+    margin-bottom: 40px;
+}
+.section h2 {
+    color: #333;
+    font-size: 1.2em;
+}
+.news ul {
+    list-style-type: none;
+    padding: 0;
+}
+.news li {
+    background: #f0f0f0;
+    margin: 10px 0;
+    padding: 10px;
+}
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #888;
+}
+.nav-menu {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 0;
+}
+.nav-menu li {
+    margin-left: 20px;
+}
+.nav-menu a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.nav-menu a:hover {
+    color: #007BFF;
+}
+.contact-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+.contact-icons a {
+    margin: 0 15px;
+}
+a {
+    text-decoration: underline;
+    color: #333;  /* Same color as text */
+    font-weight: bold;
+}
+a:hover {
+    color: #007BFF;/* No color change on hover */
+}
+.onno li{
+    margin: 10px 0;
+    padding: 5px;
+}
+.education {
+    margin: 20px 0;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.degree {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+
+.degree h3 {
+    font-size: 1.4em;
+    margin-bottom: 5px;
+}
+
+.degree p {
+    margin: 5px 0;
+}
+
+.date {
+    float: right;
+    font-style: italic;
+}
